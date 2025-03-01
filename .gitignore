@@ -15,3 +15,5 @@ llvm/*
 !.devcontainer/yatcc.Containerfile
 !.devcontainer/build-image.sh
 !.devcontainer/upload-images.sh
+
+.DS_Store
